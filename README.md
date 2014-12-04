@@ -3,6 +3,8 @@ commonmark-document
 
 This application, written on Node.js, serves [Commonmark-compliant](http://commonmark.org/) markdown files in a plain and simple "document" format.
 
+![commonmark-document-promo](https://raw.githubusercontent.com/raptastics/commonmark-document/master/commonmark-document-promo.png)
+
 The goals of this project are simple:
 
 * `live editing` - changes can be made to the file without restarting the server
